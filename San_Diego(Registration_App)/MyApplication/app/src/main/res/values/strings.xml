@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="enrolled">Enrolled</string>
+    <string name="total_paid">Total Paid:</string>
+    <string name="courses">Courses:</string>
+    <string name="name">Name:</string>
+    <string name="summary">Summary</string>
+    <string name="online_registration">Online Registration</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="mobile_application_development">Mobile Application Development</string>
+    <string name="business_process_for_computing_system">Business Process for Computing System</string>
+    <string name="networking_1">Networking 1</string>
+    <string name="total">Total:</string>
+    <string name="_0">0</string>
+    <string name="confirm">Confirm</string>
+    <string name="physics">Physics</string>
+    <string name="web_design">Web Design</string>
+</resources>
